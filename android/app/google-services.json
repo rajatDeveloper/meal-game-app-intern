@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658604405004",
+    "project_id": "meal-game-test-intern",
+    "storage_bucket": "meal-game-test-intern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658604405004:android:f9ddc5c1fb5800b2bfd929",
+        "android_client_info": {
+          "package_name": "com.example.meal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658604405004-pjkk7stifhjlqvkrgpnf739ioqmupot3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg4NLDiZQcwAXBic2ogiUXAxq23SoQs4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658604405004-pjkk7stifhjlqvkrgpnf739ioqmupot3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
